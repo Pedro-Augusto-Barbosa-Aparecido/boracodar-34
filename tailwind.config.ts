@@ -47,6 +47,12 @@ const config: Config = {
         button: '0.875rem',
         tag: '0.75rem',
         body: '0.75rem',
+        select: '0.625rem',
+      },
+      letterSpacing: {
+        tag: '0.36px',
+        input: '0.42px',
+        'select-option': '0.3px',
       },
       lineHeight: {
         title: '100%',
